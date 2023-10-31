@@ -1,1 +1,1 @@
-# kafka-topics
+# kafka-config
